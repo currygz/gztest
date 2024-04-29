@@ -47,6 +47,7 @@ public static  int[] twoSum(int[] nums, int target) {
             return ints;
         }
         map.put(nums[i],i);
+        System.out.println("hello world");
     }
     return new int[0];
 }
