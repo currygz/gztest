@@ -51,6 +51,7 @@ public static  int[] twoSum(int[] nums, int target) {
         System.out.println("hello world push");
         System.out.println("hello world push");
         System.out.println("hello world push");
+        System.out.println("1014.5.10");
     }
     return new int[0];
 }
